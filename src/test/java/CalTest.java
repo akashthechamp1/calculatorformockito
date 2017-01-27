@@ -6,7 +6,7 @@ public class CalTest {
 
 	@Test
 	public void testadd() {
-    double expectedop=3,actualop,expectedop1=-1,expectedop2=2,expectedop3=2,expectedop4=1;
+    double expectedop=7,expectedop1=-1,expectedop2=2,expectedop3=2,expectedop4=1;
     double exp[]={4,-1};
 		Cal c= new Cal();
 	;
